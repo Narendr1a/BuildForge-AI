@@ -1,0 +1,6 @@
+{
+  "name": "BuildForge AI",
+  "description": "Engineering project problem brief generator and workspace across 12 technology domains with AI system architect, Socratic mentor, live web aggregation, and build board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
